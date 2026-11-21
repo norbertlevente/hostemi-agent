@@ -28,5 +28,5 @@
     "guest-messages",
     "booking-website"
   ],
-  "icon": "./assets/logo-transparent.png"
+  "icon": "https://raw.githubusercontent.com/norbertlevente/hostemi-agent/main/assets/logo-transparent.png"
 }

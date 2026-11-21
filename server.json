@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.hostemi/hostemi",
-  "title": "Hostemi",
-  "description": "Run your vacation rental by asking: calendar, prices, bookings, guest messages and your website.",
+  "title": "Hostemi: AI Short-Term Rental Manager",
+  "description": "Manage your short-term rental with AI: prices, calendar, bookings and guests on every platform.",
   "version": "1.0.0",
   "websiteUrl": "https://hostemi.com/docs/mcp",
   "repository": {
@@ -11,7 +11,7 @@
   },
   "icons": [
     {
-      "src": "https://hostemi.com/icon-512.png",
+      "src": "https://raw.githubusercontent.com/norbertlevente/hostemi-agent/main/assets/logo-transparent.png",
       "mimeType": "image/png",
       "sizes": ["512x512"]
     }
