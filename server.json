@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.hostemi/hostemi",
+  "title": "Hostemi",
+  "description": "Run your vacation rental by asking: calendar, prices, bookings, guest messages and your website.",
+  "version": "1.0.0",
+  "websiteUrl": "https://hostemi.com/docs/mcp",
+  "repository": {
+    "url": "https://github.com/norbertlevente/hostemi-agent",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://hostemi.com/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.hostemi.com/mcp"
+    }
+  ]
+}

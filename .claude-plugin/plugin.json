@@ -1,0 +1,32 @@
+{
+  "name": "hostemi",
+  "displayName": "Hostemi: AI Short-Term Rental Manager",
+  "version": "1.0.0",
+  "description": "Manage your short-term rental directly in Claude: set prices and rules, build your website, manage guests and answer messages. Works with Airbnb, Booking.com, Vrbo, Expedia, Agoda, Trip.com and more.",
+  "author": {
+    "name": "Hostemi",
+    "email": "hello@hostemi.com",
+    "url": "https://hostemi.com"
+  },
+  "homepage": "https://hostemi.com/ai/claude",
+  "documentationUrl": "https://hostemi.com/docs/mcp",
+  "supportUrl": "https://hostemi.com/help",
+  "privacyPolicyUrl": "https://hostemi.com/privacy",
+  "termsOfServiceUrl": "https://hostemi.com/terms",
+  "repository": "https://github.com/norbertlevente/hostemi-agent",
+  "license": "MIT",
+  "keywords": [
+    "hostemi",
+    "vacation-rental",
+    "short-term-rental",
+    "holiday-home",
+    "guesthouse",
+    "host",
+    "calendar",
+    "pricing",
+    "bookings",
+    "guest-messages",
+    "booking-website"
+  ],
+  "icon": "./assets/logo.png"
+}

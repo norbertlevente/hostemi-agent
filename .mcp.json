@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hostemi": {
+      "type": "http",
+      "url": "https://mcp.hostemi.com/mcp"
+    }
+  }
+}
